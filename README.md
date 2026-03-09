@@ -6,17 +6,17 @@ A data analytics project exploring customer behaviour, revenue trends, RFM segme
 
 ### Monthly Revenue Trend
 <p align="center">
-<img src="images/monthly_revenue.png" width="700">
+<img src="Images/monthly_revenue.png" width="700">
 </p>
 
 ### Revenue by Product Category
 <p align="center">
-<img src="images/category_revenue.png" width="700">
+<img src="Images/category_revenue.png" width="700">
 </p>
 
 ### Payment Method Usage
 <p align="center">
-<img src="images/payment_methods.png" width="700">
+<img src="Images/payment_methods.png" width="700">
 </p>
 
 ## Project Overview
@@ -99,3 +99,4 @@ Payment method usage and transaction outcomes were analyzed to identify potentia
 # Author
 
 Shalyne Murage
+
