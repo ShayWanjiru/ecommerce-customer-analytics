@@ -41,11 +41,6 @@ Libraries:
 * NumPy
 * Matplotlib
 
-Optional tools:
-
-* SQL
-* Power BI
-
 # Project Structure
 
 ```
@@ -102,5 +97,6 @@ Payment method usage and transaction outcomes were analyzed to identify potentia
 # Author
 
 Shalyne Murage
+
 
 
