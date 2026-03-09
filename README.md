@@ -57,11 +57,14 @@ ecommerce-customer-analytics
 │   ├── orders.csv
 │   └── payments.csv
 │
-├── notebooks
-│   └── ecommerce_analysis.ipynb
+├── Images
+│   ├── monthly_revenue.png
+│   ├── category_revenue.png
+│   └── payment_methods.png
 │
+├── ecommerce_analysis.ipynb
 ├── data.py
-│
+├── Requirements.txt
 └── README.md
 ```
 
@@ -99,4 +102,5 @@ Payment method usage and transaction outcomes were analyzed to identify potentia
 # Author
 
 Shalyne Murage
+
 
